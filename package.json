@@ -1,0 +1,22 @@
+{
+	"name": "public",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com/"
+	},
+	"scripts": {
+		"test": "node process.env"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ahmadawais/public.git"
+	},
+	"keywords": [],
+	"author": "Maedah Batool <MaedahBatool@gmail.com> (https://twitter.com/MaedahBatool)",
+	"license": "UNLICENSED",
+	"dependencies": {
+		"@fortawesome/fontawesome-pro": "^5.14.0"
+	}
+}
